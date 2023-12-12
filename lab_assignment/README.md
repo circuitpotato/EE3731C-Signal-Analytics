@@ -1,8 +1,5 @@
 EE3731C Assignment CA2
 
-Name: Chai Wei Lynthia
-Admin No.: A0220888W
-
 dataset: sem1_2023_encrypt.mat
 
 main function: main.m
@@ -17,7 +14,6 @@ edited sub-functions:
 unedited sub-functions:
 6) mcmc_decrypt_text.m              --> for qn 4(a) to 4(c) 
 
-Report: 
-ChaiWeiLynthia_A0220888W
+
 
 
