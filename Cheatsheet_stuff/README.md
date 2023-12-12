@@ -6,6 +6,10 @@
 
 ## How to Read the Cheatsheet
 - Everything is colour coded (best to have colour printer)
-- I included all chapters except for Statistical Chapter 3.5 because it is relatively straightforward 
 - ****1st Half (Classical Signal Chapters):**** Highlighted title font is **black**
-- ****2nd Half (Statistical + Pattern Recognition Chapters):**** Highted title font is **white** 
+- ****2nd Half (Statistical + Pattern Recognition Chapters):**** Highted title font is **white**
+
+## Chapters Included
+- Classical Signals Chp 1-4
+- Statistical Signals Chp 1-3 (Except chp 3.5 --> because it is the most straightforward)
+- Pattern Recognition Chp 1-2 
